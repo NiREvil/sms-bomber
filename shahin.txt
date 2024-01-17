@@ -1,0 +1,26 @@
+دستور اول 
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+
+
+دستور بعدی اینه 
+
+slmgr /skms kms8.msguides.com
+
+یادت نره لپتاپ به نت وصل باشه ها 
+
+این دستورو نوشتی اینتر رو زدی آخرش برات بازم یه پنجره سفیدباز میشه ک نوشته
+
+Key management services..... Successfully.
+
+
+و دستور آخر اینه:
+
+slmgr /ato
+
+یذره طول میکشه شاید بیست ثانیه تا یه پنجره سفید دیگه باز بشه و برات بنویسه 
+
+Activating windows professional edition ..... Product activeed successfully.
+
+اینجا تمومه کار، اون اعلان اکسپایر شدن کیری لایسنس ویندوز رفته پی کارش، تونستی یه ریستارت بکن بعدش نتونستی مهم نیست ب تخمت
