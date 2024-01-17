@@ -822,7 +822,7 @@ r='\033[1;31m'
 g='\033[32;1m' 
 y='\033[1;33m'
 w='\033[1;37m'
-printLow(f'{r}Termux Script\n\n{y}Info:\n    {g}[+] {y}Youtube Channel: {w}@Termux_Script \n    {g}[+] {y}Telegram Channel: {w}@termux_scripte\n   \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
+printLow(f'{r} Freedom to Dream \n\n{y}Info:\n    {g}[+] {y}GitHub: {w} github.com/NiREvil \n    {g}[+] {y}Telegram Channel: {w}@F_NiREvil\n   \n{y}system:\n    {g}[+] {y}Platform: {w}{System}\n    {g}[+] {y}Node: {w}{Node}\n    {g}[+] {y}Release: {w}{Release}\n\n')
 def Vip(phone, Time):
     Thread(target=snap, args=[phone]).start(), sleep(Time)
     Thread(target=gap, args=[phone]).start(), sleep(Time)
