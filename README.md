@@ -28,25 +28,25 @@
 
 
 
-### 4- Tool directory
+#### 4- Tool directory
 
 * `cd sms-bomber`
 
 
 
-### 5- run
+#### 5- run
 `python sms-Bomber.py`
-#### And BoOoOommmm.
+##### And BoOoOommmm. 🔥
 
 ------
 > ### A few points:
-> To stop the bomber, use the keys `ctrl + D`
-If your terminal is unable to clone the file, download it [from here](https://raw.githubusercontent.com/NiREvil/sms-bomber/main/sms-bomber.py) 
-> > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
-> cause the directory or location of the tool is now in the downloads folder of your phone's storage .
->  > >   You can see which folder you are currently in with the command `pwd`.
->  > >  >  and the contents inside the folder will be displayed for you with the command `ls` .
->  > >  >  > Use the command `cd` followed by the name of the desired folder to navigate to that path.
+> > To stop the bomber, use the keys `ctrl + D`
+> > > If your terminal is unable to clone the file, download it [from here](https://raw.githubusercontent.com/NiREvil/sms-bomber/main/sms-bomber.py)
+> > > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
+cause the directory or location of the tool is now in the downloads folder of your phone's storage .
+> > > > You can see which folder you are currently in with the command `pwd`.
+> > > > > and the contents inside the folder will be displayed for you with the command `ls` .
+> > > > > > Use the command `cd` followed by the name of the desired folder to navigate to that path.
 
 
 
