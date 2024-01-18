@@ -36,7 +36,9 @@
 
 ### 5- run
 `python sms-Bomber.py`
+#### And BoOoOommmm.
 
+------
 > ### A few points:
 > To stop the bomber, use the keys `ctrl + D`
 If your terminal is unable to clone the file, download it [from here](https://raw.githubusercontent.com/NiREvil/sms-bomber/main/sms-bomber.py) 
