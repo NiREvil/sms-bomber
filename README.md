@@ -6,7 +6,7 @@
 > > > or IOS Terminus
 
 
-# Let's try this one 
+# Let's try this one :trollface:
 ## Step 1: Install updates
 
     apt update  -y
@@ -41,7 +41,7 @@
     python sms-Bomber.py
 
           
-### And BoOoOom 💣 🔥
+### And BoOoOom :bomb: :fire: :ghost:
 
 ------
 > ### A few points:
@@ -58,21 +58,20 @@ cause the directory or location of the tool is now in the downloads folder of yo
 
 
 
-with love ✨      be curious. 🤍🪐
+be curious. 🤍🪐
 
--------
-### Download links
+---
+---
 
-[Download and install Termux from GitHub source ](https://github.com/termux/termux-app/releases/tag/v0.118.0)
+### Download Box
+
+| Source | Link |
+|:--------:| -------------:|
+| F-Droid | [Get it Now](https://f-droid.org/en/packages/com.termux)|
+|  GitHub :octocat:| [Get it Now](https://github.com/termux/termux-app/releases/tag/v0.118.0)|
+|Google Play| [Get it Now](https://play.google.com/store/apps/details?id=com.termux)|
+| Android 5 & 6 | [Fix Errors](https://t.me/F_NiREvil/5040)  |
+| How to fix the installation error of Termux packages on Android 5 & 6 | [Fix Errors](https://t.me/F_NiREvil/5040)
 
 
-[Download and install Termux from F-Droid](https://f-droid.org/en/packages/com.termux/)
-
-
-[How to fix the installation error of Termux packages on Android 5 and 6](https://t.me/F_NiREvil/5040)  
-
-
-
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
