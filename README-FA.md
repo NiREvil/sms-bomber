@@ -4,10 +4,17 @@
 >> یا ترمینال‌ لینوکس یا macOS
 >>> یا ترمینوس در IOS
 
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1280px">
+</p>
+
+
+
 ### بیایید این یکی رو امتحان کنیم :trollface:
 ## قدم اول: نصب به‌روزرسانی‌ها
 
     apt update -y
+ 
   and
   
     apt upgrade -y
@@ -15,6 +22,7 @@
 ## قدم دوم: نصب پیش‌نیاز ها
 
     pkg install git
+
   and
   
     pkg install python
