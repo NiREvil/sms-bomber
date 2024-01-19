@@ -1,48 +1,42 @@
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**  ](README-FA.md)
 
-## sms-bomber
-### sms bomber with Termux
+## sms bomber with Termux Android
 > Or windows cmd and either one
 > > or Linux, windows & macOS terminal's
 > > > or IOS Terminus
 
 
 # Let's try this one 
-## Step 1:
-**install updates**
+## Step 1: Install updates
 
     apt update  -y
-  and  
+  **and**  
   
     apt upgrade -y
 
 
-## Step 2:
-**Install prerequisites**
+## Step 2: Install prerequisites
 
     pkg install git
-  and
+  **and**
   
     pkg install python
 
 
 
-## Step 3:
-**Install tools**
+## Step 3: Get install tools
 
     git clone https://github.com/NiREvil/sms-bomber
 
 
 
-## Step 4:
-**Tool directory**
+## Step 4: Tool directory
      
     cd sms-bomber
 
 
 
-## Step 5: 
-**run**
+## Step 5: Run
 
     python sms-Bomber.py
 
@@ -67,6 +61,7 @@ cause the directory or location of the tool is now in the downloads folder of yo
 with love ✨      be curious. 🤍🪐
 
 -------
+### Download links
 
 [Download and install Termux from GitHub source ](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
