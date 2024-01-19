@@ -4,7 +4,7 @@
 >> یا ترمینال‌ لینوکس یا macOS
 >>> یا ترمینوس در IOS
 
-### بیایید این یکی رو امتحان کنیم
+### بیایید این یکی رو ^امتحان کنیم^ :trollface:
 ## قدم اول:
 **نصب به‌روزرسانی‌ها**
 > `apt update -y`
@@ -29,7 +29,8 @@
 > `python sms-Bomber.py`
 >
 
-##### و بووووووووم 💣🔥
+#### و بووووووووم :bomb: :fire: :ghost:
+
 
 
 > ### چند نکته:
@@ -40,26 +41,21 @@
 >>>> با دستور `pwd` می‌توانید ببینید که در حال حاضر در کدام پوشه هستید.
 >>>>> محتوای درون پوشه‌ها با دستور `ls` برای شما نمایش داده خواهد شد.
 >>>>>> برای رفتن به مسیرهای مورد نظر؛ ابتدا دستور `cd` را تایپ کرده و ادامه نام پوشه مد نظر خود را وارد کنید.
-> >>>>> لطفا لطفا ترماکس را از فروشگاه کوگل دانلود نکنید، دستورات در ان اجرا نمیشوند و پر از باگ های عجیب است.
-------
-#### کنجکاو باشید. 🤍🪐  
 
 
+#### کنجکاو باشید. 🤍🪐
 
 
+## باکس دانلود  
   
-## دانلود ترماکس
-[لینک دانلود از گیت هاب](https://github.com/termux/termux-app/releases/tag/v0.118.0)
-
-
-
-[لینک دانلود از F-Droid](https://f-droid.org/en/packages/com.termux/)
-
-
-[نحوه رفع خطای نصب پکیج‌های ترماکس در اندروید 5 و 6](https://t.me/F_NiREvil/5040)
-
-
-
-
+| منبع | لینک |  
+|:--------:| -------------:|  
+| F-Droid | [لینک](https://f-droid.org/en/packages/com.termux)|  
+| GitHub :octocat:| [لینک](https://github.com/termux/termux-app/releases/tag/v0.118.0)|  
+|Google Play| [لینک](https://play.google.com/store/apps/details?id=com.termux)|   
+| How to fix the installation error of Termux packages on Android 5 & 6 | [رفع خطا](https://t.me/F_NiREvil/5040) |
   
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
+
+
+> نکته: لطفا لطفا ترماکس را از فروشگاه کوگل دانلود نکنید، دستورات در ان اجرا نمیشوند و پر از باگ های عجیب است.
