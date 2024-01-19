@@ -1,9 +1,16 @@
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**  ](README-FA.md)
 
+
 ## sms bomber with Termux Android
 > Or windows cmd and either one
 > > or Linux, windows & macOS terminal's
 > > > or IOS Terminus
+
+
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="740px">
+</p>
+
 
 
 # Let's try this one :trollface:
