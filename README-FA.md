@@ -25,7 +25,10 @@
 
 
 ## و در نهایت
-**اجرای آن**`python sms-Bomber.py`
+**اجرای آن**
+> `python sms-Bomber.py`
+>
+
 ##### و بووووووووم 💣🔥
 
 ------
@@ -41,6 +44,13 @@
 
 
 ## کنجکاو باشید. 🤍🪐
+[لینک دانلود ترماکس از گیت هاب](https://github.com/termux/termux-app/releases/tag/v0.118.0)
+
+
+[لینک دانلود ترماکس از F-Droid](https://f-droid.org/en/packages/com.termux/)
+
+
+[آموزش رفع خطای نصب پکیج های ترماکس در اندروید 5 و 6](https://t.me/F_NiREvil/5040)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  
