@@ -1,42 +1,53 @@
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**  ](README-FA.md)
 
 ## sms-bomber
 ### sms bomber with Termux
 > Or windows cmd and either one
-> > or Linux, macOS terminal's
+> > or Linux, windows & macOS terminal's
 > > > or IOS Terminus
 
 
+# Let's try this one 
+## Step 1:
+**install updates**
 
-### Let's try this one 
-#### 1- install updates
-
-* `apt update  -y`
-* `apt upgrade -y`
-
-
-#### 2- Install prerequisites
-
-* `pkg install git`
-* `pkg install python`
+    apt update  -y
+  and  
+  
+    apt upgrade -y
 
 
+## Step 2:
+**Install prerequisites**
 
-#### 3- Install tools
-
-* `git clone https://github.com/NiREvil/sms-bomber`
-
-
-
-#### 4- Tool directory
-
-* `cd sms-bomber`
+    pkg install git
+  and
+  
+    pkg install python
 
 
 
-#### 5- run
-`python sms-Bomber.py`
-##### And BoOoOommmm. 🔥
+## Step 3:
+**Install tools**
+
+    git clone https://github.com/NiREvil/sms-bomber
+
+
+
+## Step 4:
+**Tool directory**
+     
+    cd sms-bomber
+
+
+
+## Step 5: 
+**run**
+
+    python sms-Bomber.py
+
+          
+### And BoOoOom 💣 🔥
 
 ------
 > ### A few points:
@@ -47,14 +58,24 @@ cause the directory or location of the tool is now in the downloads folder of yo
 > > > > You can see which folder you are currently in with the command `pwd`.
 > > > > > and the contents inside the folder will be displayed for you with the command `ls` .
 > > > > > > Use the command `cd` followed by the name of the desired folder to navigate to that path.
+> > > > > > > > Please please do not install Termux from Google Play, as the commands do not run and it is full of bugs.
+
 
 
 
 
 with love ✨      be curious. 🤍🪐
 
+-------
 
---------
+[Download and install Termux from GitHub source ](https://github.com/termux/termux-app/releases/tag/v0.118.0)
+
+
+[Download and install Termux from F-Droid](https://f-droid.org/en/packages/com.termux/)
+
+
+[How to fix the installation error of Termux packages on Android 5 and 6](https://t.me/F_NiREvil/5040)  
+
 
 
 
