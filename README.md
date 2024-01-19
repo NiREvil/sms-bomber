@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1280px">
 </p>
 
 
