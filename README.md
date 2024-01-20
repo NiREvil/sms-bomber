@@ -133,7 +133,7 @@ pkg install git
 **and**
 
 ```
-pkg install phyton3
+pkg install python3
 ```
 
 
