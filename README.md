@@ -16,36 +16,52 @@
 # Let's try the first one :trollface:
 ## Step 1: Install updates
 
-    apt update  -y
-  **and**  
-  
-    apt upgrade -y
+```
+apt update -y
+```
 
+**and**  
+
+```
+apt upgrade -y
+```
 
 ## Step 2: Install prerequisites
 
-    pkg install git
-  **and**
-  
-    pkg install python
+```
+pkg install git
+```
+**and**
 
+```
+pkg install python
+```
+**and**
 
+```
+pip install urllib3
+```
 
 ## Step 3: Get install tools
 
-    git clone https://github.com/NiREvil/sms-bomber
+```
+git clone https://github.com/NiREvil/sms-bomber
+```
 
 
 
 ## Step 4: Tool directory
-     
-    cd sms-bomber
 
+```
+cd sms-bomber
+```
 
 
 ## Last step 5: Run
 
-    python sms-Bomber.py
+```
+python sms-bomber.py
+```
 
 > **please pay attention**
 > Now the script is running and it asks for the mobile number of that asshole.
@@ -69,7 +85,7 @@ cause the directory or location of the tool is now in the downloads folder of yo
 be curious. 🤍🪐
 
 ---
-### Download Box
+### Download Termux
 
 | Source | Link |
 |:--------:| -------------:|
@@ -93,16 +109,18 @@ be curious. 🤍🪐
 # Let's try the second one :trollface:
 ## Step 1: Install updates
 ```
-apt update  -y
+apt update -y
 ```
 
 **and**
+
 ```
 apt upgrade -y
 ```
 
 
 ## Step 2: Install python
+
 ```
 pkg install python
 ```
@@ -112,7 +130,7 @@ pkg install python
 ```
 pkg install git
 ```
-and
+**and**
 
 ```
 pkg install phyton3
@@ -121,11 +139,10 @@ pkg install phyton3
 
 
 ## Step 4: install lib
- ```
+
+```
 pip install urllib3
 ```
-
-
 
 ## Step 5: Get install Tools
 
