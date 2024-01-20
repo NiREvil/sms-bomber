@@ -1,7 +1,7 @@
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**  ](README-FA.md)
 
 
-## sms bomber with Termux Android
+## two sms bomber for Termux Android
 > Or windows cmd and either one
 > > or Linux, windows & macOS terminal's
 > > > or IOS Terminus
@@ -13,7 +13,7 @@
 
 
 
-# Let's try this one :trollface:
+# Let's try the first one :trollface:
 ## Step 1: Install updates
 
     apt update  -y
@@ -43,7 +43,7 @@
 
 
 
-## Step 5: Run
+## Last step 5: Run
 
     python sms-Bomber.py
 
@@ -53,7 +53,7 @@
 ------
 > ### A few points:
 > > To stop the bomber, use the keys `ctrl + D`
-> > > If your terminal is unable to clone the file, download it [from here](https://github.com/NiREvil/sms-bomber/blob/main/sms-bomber.py)
+> > > If your terminal is unable to clone the files, download it [from here](https://github.com/NiREvil/sms-bomber/blob/main/sms-bomber.py)
 > > > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
 cause the directory or location of the tool is now in the downloads folder of your phone's storage .
 > > > > You can see which folder you are currently in with the command `pwd`.
@@ -79,3 +79,72 @@ be curious. 🤍🪐
 
 
 > * Please please do not install Termux from Google Play, as the commands do not run and it is full of bugs.
+
+
+
+
+
+
+# Let's try the second one :trollface:
+## Step 1: Install updates
+```
+apt update  -y
+```
+
+**and**
+```
+apt upgrade -y
+```
+
+
+## Step 2: Install python
+```
+pkg install python
+```
+
+## Step 3: install prerequisites
+  
+```
+pkg install git
+```
+and
+
+```
+pkg install phyton3
+```
+
+
+
+## Step 4: install lib
+ ```
+pip install urllib3
+```
+
+
+
+## Step 5: Get install Tools
+
+```
+git clone https://github.com/NiREvil/sms-bomber
+```
+and then
+
+```
+cd sms-bomber
+```
+
+## Last step:Run
+
+```
+python sms.py
+```
+### And BoOoOom :bomb: :fire: :ghost:
+
+
+> ### A few points:
+> > To stop the bomber, use the keys `ctrl + D`
+> > > If your terminal is unable to clone the files, download it [from here](https://github.com/NiREvil/sms-bomber/blob/main/sms.py)
+> > > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
+cause the directory or location of the tool is now in the downloads folder of your phone's storage .
+
+**The end of story.** :smoking: :rage1:
