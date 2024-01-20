@@ -47,6 +47,10 @@
 
     python sms-Bomber.py
 
+> **please pay attention**
+> Now the script is running and it asks for the mobile number of that asshole.
+> > The prefix 98 is already written, so you just need to enter the remaining number without the zero, for example, `914860876`.
+> > > In the next step, you can change the speed of sending messages, but I have set it to the maximum, so it's better not to change it and just press the enter key to run it. Return result only.
           
 ### And BoOoOom :bomb: :fire: :ghost:
 
@@ -133,12 +137,16 @@ and then
 cd sms-bomber
 ```
 
-## Last step:Run
+## Last step: copy, edit and Run
 
 ```
-python sms.py
+python3 sms.py 9148608767 --times 1000
 ```
-### And BoOoOom :bomb: :fire: :ghost:
+
+> **please pay attention**
+> > Replace the number written in the command with your desired target number, of course without zero at the beginning.
+> > > The number 1000 written at the end of the command indicates the number of messages sent to that asshole, change it according to your needs.
+> > > if you want to test it on your own mobile number, reduce it to the minimum number, which is 10. Return result only.
 
 
 > ### A few points:
