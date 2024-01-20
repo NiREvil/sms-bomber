@@ -56,7 +56,8 @@
 
 ------
 > ### A few points:
-> > To stop the bomber, use the keys `ctrl + D`
+> The execution site for all SMS bombers, should always have **VPN turned off.** Always Always.
+> > To stop the bomber, use the keys `ctrl + C` and for exit use `ctrl + D`
 > > > If your terminal is unable to clone the files, download it [from here](https://github.com/NiREvil/sms-bomber/blob/main/sms-bomber.py)
 > > > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
 cause the directory or location of the tool is now in the downloads folder of your phone's storage .
