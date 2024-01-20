@@ -52,7 +52,7 @@ python sms-bomber.py
 > Now the script is running and it asks for the mobile number of that asshole.
 > > The prefix 98 is already written, so you just need to enter the remaining number without the zero, for example, `914860876`.
 > > > In the next step, you can change the speed of sending messages, but I have set it to the maximum, so it's better not to change it and just press the enter key to run it. Return result only.
-          
+        
 ### And BoOoOom :bomb: :fire: :ghost:
 
 ------
@@ -68,7 +68,8 @@ cause the directory or location of the tool is now in the downloads folder of yo
 
 
 be curious. 🤍🪐
-
+-----
+[Video tutorial](https://t.me/F_NiREvil/5208)
 ---
 ### Download Termux
 
