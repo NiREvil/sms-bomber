@@ -17,32 +17,17 @@
 ## Step 1: Install updates
 
 ```
-apt update -y
+apt update -y && apt upgrade -y
 ```
 
-**and**  
+## Step 2: Install python & prerequisites
 
 ```
-apt upgrade -y
+pkg install git && pkg install python && pip install urllib3
 ```
 
-## Step 2: Install prerequisites
 
-```
-pkg install git
-```
-**and**
-
-```
-pkg install python
-```
-**and**
-
-```
-pip install urllib3
-```
-
-## Step 3: Get install tools
+## Step 3: Get install bomber tools
 
 ```
 git clone https://github.com/NiREvil/sms-bomber
@@ -78,8 +63,8 @@ python sms-bomber.py
 > > > and then use the command `cd downloads` in the program instead of the command cd sms-bomber ,
 cause the directory or location of the tool is now in the downloads folder of your phone's storage .
 > > > > You can see which folder you are currently in with the command `pwd`.
-> > > > > and the contents inside the folder will be displayed for you with the command `ls` .
-> > > > > > Use the command `cd` followed by the name of the desired folder to navigate to that path.
+> > > > and the contents inside the folder will be displayed for you with the command `ls` .
+> > > > Use the command `cd` followed by the name of the desired folder to navigate to that path.
 
 
 be curious. 🤍🪐
@@ -87,7 +72,7 @@ be curious. 🤍🪐
 ---
 ### Download Termux
 
-| Source | Link |
+| Source | Download Link's |
 |:--------:| -------------:|
 | F-Droid | [Get it Now](https://f-droid.org/en/packages/com.termux)|
 |  GitHub :octocat:| [Get it Now](https://github.com/termux/termux-app/releases/tag/v0.118.0)|
@@ -95,7 +80,7 @@ be curious. 🤍🪐
 | How to fix the installation error of Termux packages on Android 5 & 6 | [Fix Errors](https://t.me/F_NiREvil/5040)
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
 
 
 
@@ -109,47 +94,29 @@ be curious. 🤍🪐
 # Let's try the second one :trollface:
 ## Step 1: Install updates
 ```
-apt update -y
-```
-
-**and**
-
-```
-apt upgrade -y
+apt update -y && apt upgrade -y
 ```
 
 
-## Step 2: Install python
+## Step 2: Install python & prerequisites
 
 ```
-pkg install python
-```
-
-## Step 3: install prerequisites
-  
-```
-pkg install git
-```
-**and**
-
-```
-pkg install python3
+pkg install python && pkg install git && pkg install python3
 ```
 
 
-
-## Step 4: install lib
+## Step 3: install lib
 
 ```
 pip install urllib3
 ```
 
-## Step 5: Get install Tools
+## Step 4: Get install Termux Tools
 
 ```
 git clone https://github.com/NiREvil/sms-bomber
 ```
-and then
+and Direction
 
 ```
 cd sms-bomber
