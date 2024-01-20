@@ -12,33 +12,51 @@
 
 ### خب بیایید اولی رو امتحان کنیم :trollface:
 ## قدم اول: نصب به‌روزرسانی‌ها
+```
+apt update -y
+```
 
-    apt update -y
- 
-  and
-  
-    apt upgrade -y
+**and**
+
+```
+apt upgrade -y
+```
 
 ## قدم دوم: نصب پیش‌نیاز ها
 
-    pkg install git
+```
+pkg install git
+```
 
-  and
-  
-    pkg install python
+**and**
+
+```
+pkg install python
+```
+
+**and**
+
+```
+pip install urllib3
+```
+
+
 
 ## قدم سوم: کپی کردن فایل ابزار در دستگاه
 
-    git clone https://github.com/NiREvil/sms-bomber
+```
+git clone https://github.com/NiREvil/sms-bomber
+```
 
 ## قدم چهارم: وارد شدن به پوشه ابزار
-
-    cd sms-bomber
-
+```
+cd sms-bomber
+```
 
 ## و در نهایت: اجرای آن
-
-    python sms-Bomber.py
+```
+python sms-bomber.py
+```
 
 > **لطفا توجه کنید**
 > > حالا اسکریپت اجرا می‌شود و از شما `شماره موبایل شخص کصکش` را میخواهد،
@@ -82,10 +100,10 @@
 # بیایید دومی رو امتحان کنیم :trollface:
 ## قدم اول: آپدیت ابزارها
 ```
-apt update  -y
+apt update -y
 ```
 
-and
+**and**
 ```
 apt upgrade -y
 ```
@@ -101,16 +119,22 @@ pkg install python
 ```
 pkg install git
 ```
-and
+**and**
 
 ```
-pkg install phyton3
+pkg install python
+```
+**and**
+
+```
+pkg install python3
 ```
 
 
 
 ## قدم چهارم: نصب lib
- ```
+
+```
 pip install urllib3
 ```
 
