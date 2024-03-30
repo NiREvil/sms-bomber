@@ -1,3 +1,5 @@
+[🇬🇧 Dive into the English descriptions](README.md)
+
 ## بمباران پیامکی
 ### دو نوع بمباران پیامکی با استفاده از Termux در اندروید
 > یا توسط خط فرمان (CMD) و یا ترمینال ویندوز
@@ -65,20 +67,23 @@ python sms-bomber.py
 -----
 [ویدئو آموزش](https://t.me/F_NiREvil/5208)
 -------
-## دانلود ترماکس
-  
-| منبع | لینک دانلود |  
-|:--------:| -------------:|  
-| F-Droid | [لینک](https://f-droid.org/en/packages/com.termux)|  
-| GitHub :octocat:| [لینک](https://github.com/termux/termux-app/releases/tag/v0.118.0)|  
-|Google Play| [لینک](https://play.google.com/store/apps/details?id=com.termux)|   
-| How to fix the installation error of Termux packages on Android 5 & 6 | [رفع خطا](https://t.me/F_NiREvil/5040) |
-  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
+---
+### باکس دانلود ترماکس اندروید
 
+| منبع | لینک‌های دانلود |
+|:--------:| -------------:|
+| F-Droid | [Get it Now](https://f-droid.org/en/packages/com.termux)|
+|  GitHub :octocat:| [Get it Now](https://github.com/termux/termux-app/releases)|
+|Google Play| [Get it Now](https://play.google.com/store/apps/details?id=com.termux)|
+| نحوه رفع مشکل نصب و اجرای پکیج ها در اندروید هفت و پایین‌تر | [Fix Errors](https://t.me/F_NiREvil/5040)
 
-> نکته: لطفا لطفا ترماکس را از فروشگاه کوگل دانلود نکنید، دستورات در ان اجرا نمیشوند و پر از باگ های عجیب است.
+> پیشنهاد میکنم حتما از گیت‌هاب نصب کنید.
+> 
+> نسخه فروشگاه گوگل باگ‌های بسیار زیادی داره و نسخه اف هم با خیلی از دستگاه‌ها سازگار نیست،
+> بهترین انتخاب مخزن گیت‌هاب برنامه است.
+![Alt Tag](https://i.imgur.com/PYV4crq.png "FUCKOFF")
 
+----
 
 
 # بیایید دومی رو امتحان کنیم :trollface:
@@ -130,4 +135,10 @@ python3 sms.py 9148608767 --times 1000
 >>> و سپس به جای دستور `cd sms-bomber`، از دستور `cd downloads` برای قرار گرفتن در محل ذخیره فایل استفاده کنید،
 زیرا محل ذخیره شدن ابزار خود اکنون در پوشه دانلود حافظه دستگاه می‌باشد.
 
-**پایان ماجرا.** :smoking: :rage1:
+**تامام.** :smoking: :rage1:
+
+---
+
+  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)
+
